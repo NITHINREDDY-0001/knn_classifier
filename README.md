@@ -6,7 +6,7 @@ It includes data visualization, model training, evaluation, and performance metr
 ---
 
 ## 📂 Project Structure
-- `knn_iris.py` → Main Python script
+- `KNN.py` → Main Python script
 - `README.md` → Project documentation
 
 ---
